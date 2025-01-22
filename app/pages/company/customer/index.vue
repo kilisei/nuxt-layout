@@ -1,0 +1,3 @@
+<template>
+customer index
+</template>
