@@ -3,5 +3,7 @@
 </script>
 
 <template>
-  company index
+  <div>
+    company index
+  </div>
 </template>

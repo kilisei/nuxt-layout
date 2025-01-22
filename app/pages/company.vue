@@ -1,12 +1,14 @@
 <script setup lang="ts">
 definePageMeta({
-  layout: false
+  layout:'company'
 })
 </script>
 
 <template>
-<NuxtLayout name="company" >
-  Extra info of company
+<div >
+  <template #sidebar>
+    Extra info of company
+  </template>
   <NuxtPage/>
-</NuxtLayout>
+</div>
 </template>

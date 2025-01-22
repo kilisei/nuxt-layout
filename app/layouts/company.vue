@@ -1,6 +1,11 @@
 <template>
   <div class="bg-blue-500 p-4">
-    Company Layout
-    <slot/>
+    <div class="p-4">
+      <slot name="sidebar"/>
+    </div>
+    <div>
+      Company Layout
+      <slot/>
+    </div>
   </div>
 </template>

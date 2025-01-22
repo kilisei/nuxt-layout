@@ -1,3 +1,5 @@
 <template>
-project index
+  <div>
+    project index
+  </div>
 </template>

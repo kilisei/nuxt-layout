@@ -1,3 +1,5 @@
 <template>
-customer index
+  <div>
+    customer index
+  </div>
 </template>
